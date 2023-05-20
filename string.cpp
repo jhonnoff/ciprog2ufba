@@ -12,6 +12,7 @@ int main() {
   cout<< "olá "<< nome << "! Bem vindo ao RPG!"<< endl;
   
   cout<< "Você deseja ir para a Direita ou para a Esquerda?" << endl;
+    
   
   getline(cin ,resposta);
   
